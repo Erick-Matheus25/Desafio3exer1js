@@ -1,23 +1,29 @@
 [
   {
+    "id": 1,
+    "nome": "Ana Beatriz",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "Ativo",
+    "idade": 22
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Eduardo",
+    "curso": "Redes de Computadores",
+    "status": "Inativo",
+    "idade": 24
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Souza",
+    "curso": "Engenharia de Software",
+    "status": "Ativo",
+    "idade": 21
+  }
+  {
     "nome": "Lucas",
     "idade": 19,
     "curso": "JavaScript"
-  },
-  {
-    "nome": "Ana",
-    "idade": 22,
-    "curso": "Front-End"
-  },
-  {
-    "nome": "Carlos",
-    "idade": 25,
-    "curso": "Back-End"
-  },
-  {
-    "nome": "Mariana",
-    "idade": 20,
-    "curso": "Banco de Dados"
   },
   {
     "nome": "Fernanda",
@@ -29,4 +35,6 @@
     "idade": 21,
     "curso": "Python"
   }
+  
+
 ]
