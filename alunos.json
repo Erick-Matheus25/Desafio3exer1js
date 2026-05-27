@@ -3,7 +3,10 @@
     "id": 1,
     "nome": "Ana Beatriz",
     "curso": "Análise e Desenvolvimento de Sistemas",
-    "status": "Ativo"
+    "status": "Ativo",
+    "cidade": "São Paulo",
+    "email": "ana.beatriz@email.com"
+
     
     
   },
@@ -11,39 +14,42 @@
     "id": 2,
     "nome": "Carlos Eduardo",
     "curso": "Redes de Computadores",
-    "status": "Inativo"
+    "status": "Inativo",
+    "cidade": "Rio de Janeiro",
+    "email": "carlos.eduardo@email.com"
     
   },
   {
     "id": 3,
     "nome": "Mariana Souza",
     "curso": "Engenharia de Software",
-    "status": "Ativo"
+    "status": "Ativo",
+    "cidade": "Belo Horizonte",
+    "email": "mariana.souza@email.com"
     
   },
   {
     "id": 4,
     "nome": "Lucas Oliveira",
     "curso": "Ciência da Computação",
-    "status": "Ativo"
-    
+    "status": "Ativo",
+    "cidade": "Curitiba",
+    "email": "lucas.oliveira@email.com"
   },
   {
     "id": 5,
     "nome": "Fernanda Lima",
     "curso": "Sistemas de Informação",
-    "status": "Inativo"
-    
+    "status": "Inativo",
+    "cidade": "Porto Alegre",
+    "email": "fernanda.lima@email.com"
   },
   {
     "id": 6,
     "nome": "Rafael Santos",
     "curso": "Análise e Desenvolvimento de Sistemas",
-    "status": "Ativo"
-   
-
-}
-    
-
-  
+    "status": "Ativo",
+    "cidade": "Brasília",
+    "email": "rafael.santos@email.com"
+  }
 ]
