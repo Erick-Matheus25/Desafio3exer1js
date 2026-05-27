@@ -1,55 +1,32 @@
 [
   {
-    "id": 1,
-    "nome": "Ana Beatriz",
-    "curso": "Análise e Desenvolvimento de Sistemas",
-    "status": "Ativo",
-    "cidade": "São Paulo",
-    "email": "ana.beatriz@email.com"
-
-    
-    
+    "nome": "Lucas",
+    "idade": 19,
+    "curso": "JavaScript"
   },
   {
-    "id": 2,
-    "nome": "Carlos Eduardo",
-    "curso": "Redes de Computadores",
-    "status": "Inativo",
-    "cidade": "Rio de Janeiro",
-    "email": "carlos.eduardo@email.com"
-    
+    "nome": "Ana",
+    "idade": 22,
+    "curso": "Front-End"
   },
   {
-    "id": 3,
-    "nome": "Mariana Souza",
-    "curso": "Engenharia de Software",
-    "status": "Ativo",
-    "cidade": "Belo Horizonte",
-    "email": "mariana.souza@email.com"
-    
+    "nome": "Carlos",
+    "idade": 25,
+    "curso": "Back-End"
   },
   {
-    "id": 4,
-    "nome": "Lucas Oliveira",
-    "curso": "Ciência da Computação",
-    "status": "Ativo",
-    "cidade": "Curitiba",
-    "email": "lucas.oliveira@email.com"
+    "nome": "Mariana",
+    "idade": 20,
+    "curso": "Banco de Dados"
   },
   {
-    "id": 5,
-    "nome": "Fernanda Lima",
-    "curso": "Sistemas de Informação",
-    "status": "Inativo",
-    "cidade": "Porto Alegre",
-    "email": "fernanda.lima@email.com"
+    "nome": "Fernanda",
+    "idade": 24,
+    "curso": "UX/UI"
   },
   {
-    "id": 6,
-    "nome": "Rafael Santos",
-    "curso": "Análise e Desenvolvimento de Sistemas",
-    "status": "Ativo",
-    "cidade": "Brasília",
-    "email": "rafael.santos@email.com"
+    "nome": "Pedro",
+    "idade": 21,
+    "curso": "Python"
   }
 ]
