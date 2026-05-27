@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Beatriz",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "Ativo"
+    
+    
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Eduardo",
+    "curso": "Redes de Computadores",
+    "status": "Inativo"
+    
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Souza",
+    "curso": "Engenharia de Software",
+    "status": "Ativo"
+    
+  },
+  {
+    "id": 4,
+    "nome": "Lucas Oliveira",
+    "curso": "Ciência da Computação",
+    "status": "Ativo"
+    
+  },
+  {
+    "id": 5,
+    "nome": "Fernanda Lima",
+    "curso": "Sistemas de Informação",
+    "status": "Inativo"
+    
+  },
+  {
+    "id": 6,
+    "nome": "Rafael Santos",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "Ativo"
+   
+
+}
+    
+
+  
+]
